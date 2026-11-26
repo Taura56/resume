@@ -9,7 +9,7 @@ export default function Header() {
     <header className="header">
       <div className="header-inner">
         <img
-          src="/taura.jpeg"
+          src="/taura-profile.png"
           alt="Taura Anderson"
           className="profile-photo"
           width="48"
